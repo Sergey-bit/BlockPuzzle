@@ -1,1 +1,5 @@
-# Тут что-то будет
+import pygame
+
+
+def game():
+	pass
