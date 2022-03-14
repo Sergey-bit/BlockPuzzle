@@ -1,9 +1,7 @@
-import pygame
 from Menu import menu
 
 
 def main():
-	pygame.init()
 	menu()
 
 
